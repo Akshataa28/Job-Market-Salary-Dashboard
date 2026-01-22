@@ -37,6 +37,6 @@ I created the Job Market Salary Dashboard to explore and visualize salaries in t
 - Salary levels vary widely across countries, highlighting geographic pay differences.
 
 ## Dashboard
-<img width="1324" height="738" alt="Environmental Metrics page1" src="https://github.com/user-attachments/assets/37fb7af1-dcab-4581-b77a-7278c9d44225" />
+<img width="1324" height="738" alt="Environmental Metrics page1" src="https://github.com/Akshataa28/Job-Market-Salary-Dashboard/blob/main/Job-market-salary-dashboard.png" />
 
 
